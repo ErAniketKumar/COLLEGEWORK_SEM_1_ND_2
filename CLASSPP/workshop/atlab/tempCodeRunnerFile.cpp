@@ -1,0 +1,1 @@
+  // cout<<"Roll No is:"<<x.rollNo<<"\nNmae is: "<<x.name<<"\nCGPA is:  "<<x.cgpa<<endl;
